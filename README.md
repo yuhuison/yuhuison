@@ -11,7 +11,7 @@ I want to be an interesting person and create something that can be remembered b
 - 💬 Be free to ask me about anything [here](https://github.com/yuhuison/yuhuison/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhuison&show_icons=true&icon_color=0078e7&title_color=0078e7">
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=WeihanLi&theme=dark&layout=compact)
 #### Languages and Frameworks
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
