@@ -7,7 +7,7 @@ I want to be an interesting person and create something that can be remembered b
 - 🔭 I’m currently working on [...](https://github.com/yuhuison), yeah, you can find them directly below.
 - 🌱 I’m currently learning Computer Graphics & Games & Drawing & WEB & hacking, and want to learn everything interesting.
 - 🤔 My dream is being a TA(Tech Art) one day.I want to share happiness by making game!
-- ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
+- ❤️ I like eating 🍉, raising 🐓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/yuhuison/yuhuison/issues).
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhuison&show_icons=true&icon_color=0078e7&title_color=0078e7">
