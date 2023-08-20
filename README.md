@@ -1,3 +1,6 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhuison&show_icons=true&icon_color=0078e7&title_color=0078e7"> 
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuison&layout=compact"> 
+
 ### Hi there, I'm [QiuXiaoShi(秋小十)](https://falls.ink). 👋
 
 I am a learning student from China. I like open source and all interesting things and want to try to do it.
@@ -10,8 +13,7 @@ I want to be an interesting person and create something that can be remembered b
 - ❤️ I like eating 🍉, raising 🐓, sleeping in 🛌 and watching 📺 [ACGN](https://en.wikipedia.org/wiki/ACG_(subculture)).
 - 💬 Be free to ask me about anything [here](https://github.com/yuhuison/yuhuison/issues).
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhuison&show_icons=true&icon_color=0078e7&title_color=0078e7"> 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuhuison&layout=compact"> 
+
 
 #### Languages and Frameworks
 
