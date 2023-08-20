@@ -11,8 +11,6 @@ I want to be an interesting person and create something that can be remembered b
 - 💬 Be free to ask me about anything [here](https://github.com/yuhuison/yuhuison/issues).
 
 
-#### highlight
-
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=yuhuison&show_icons=true&icon_color=0078e7&title_color=0078e7"> 
 
 
