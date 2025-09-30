@@ -1,4 +1,4 @@
-### Hi there, I'm [QiuXiaoShi(秋小十)](https://falls.ink). 👋
+### Hi there, I'm [Micks)](https://falls.ink). 👋
 
 I am a learning student from China. I like open source and all interesting things and want to try to do it.
 
