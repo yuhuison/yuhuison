@@ -1,6 +1,6 @@
 ### Hi there, I'm [Micks)](https://falls.ink). 👋
 
-I am a learning student from China. I like open source and all interesting things and want to try to do it.
+ I like open source and all interesting things and want to try to do it.
 
 I want to be an interesting person and create something that can be remembered by others.
 
